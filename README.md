@@ -47,13 +47,3 @@ https://bs-jasmeet.000webhostapp.com
 I would like to thank The Sparks Foundation for giving me such a wonderful opportunity.
 
 ![image](/img/bank.jpg)
-
-![image](/img/customer.jpg)
-
-![image](/img/history.jpg)
-
-![image](/img/trans.jpg)
-
-![image](/img/users.jpg)
-
-![image](/img/logo.png)
