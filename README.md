@@ -39,7 +39,7 @@ Database contains two Tables- Users Table & Transaction Table
 1. User table have basic fields such as name, email & current balance.
 2. Transaction table records all transfers happened along with their time.
 
-Flow of the Website: Home Page > View all customers > Select and View one User > Transfer Money > Select reciever > View all customers > View Transfer History.
+Flow of the Website: Home Page > View all customers > Select and View one Customer > Transfer Money > Select customer to transfer > View all customers > View Transfer History.
 
 Website is hosted on 000webhost.com. Below is the website url:
 https://bs-jasmeet.000webhostapp.com
