@@ -31,7 +31,7 @@ To Run This Project Following Software Needs To Be Installed :
 To Run This Project Follow Below Steps:
 
 1. Install all the required setup.
-2. Import tha databse file i.e 'bank' which is present under 'sql', into the MyPhp Admin.
+2. Import tha database file i.e 'bank' which is present under 'sql', into the MyPhp Admin.
 3. Open chrome or anyother browser and run the index.php file.
 
 Database contains two Tables- Users Table & Transaction Table
