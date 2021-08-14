@@ -10,7 +10,7 @@ Database : MySQL
 
 To Run This Project Following Software Needs To Be Installed :
 
-1.  XHAMPP
+1.  XAMPP
     Download Link: https://www.apachefriends.org/
     Download XHAMPP Setup according to your system configuration
     Install The Setup
