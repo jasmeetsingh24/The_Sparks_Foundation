@@ -42,7 +42,7 @@ Database contains two Tables- Users Table & Transaction Table
 Flow of the Website: Home Page > View all customers > Select and View one Customer > Transfer Money > Select customer to transfer > View all customers > View Transfer History.
 
 Website is hosted on 000webhost.com. Below is the website url:
-https://bs-jasmeet.000webhostapp.com
+https://sparks-jasmeet.000webhostapp.com
 
 I would like to thank The Sparks Foundation for giving me such a wonderful opportunity.
 
